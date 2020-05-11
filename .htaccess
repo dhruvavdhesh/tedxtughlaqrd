@@ -2,9 +2,9 @@ RewriteEngine On
 RewriteCond %{HTTP:X-Forwarded-Proto} =http
 RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 RewriteCond %{HTTP_HOST} ^www.tedxtughlaqrd.com [NC]
-RewriteRule ^(.*)$ http://tedxtughlaqrd.net [L,R=301]
+RewriteRule ^(.*)$ http://tedxtughlaqrd.com [L,R=301]
 
-ErrorDocument 404 404.php
+ErrorDocument 404 /404.php
 
 <IfModule mod_expires.c>
     ExpiresActive on

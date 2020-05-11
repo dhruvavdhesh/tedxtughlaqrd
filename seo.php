@@ -1,6 +1,6 @@
     <meta name="title" content="TEDxTughlaqRd | Celebrating You" />
     <meta name="description" content="You were born to be a phenomenon. You are invincible. You are truth. A mind which is bound to perform impeccable tasks by living, moving and consuming life. You are the Five Elements in motion. You are the Answer to your Prayers. This, one of a kind gathering in the heart of the city, celebrates YOU." />
-	<meta name="keywords" content="TED, TEDx, Tughlaq, Rd, TEDxTughlaqRd, celebrating, you, dhruv, avdhesh" />
+	<meta name="keywords" content="TED, TEDx, Tughlaq, Rd, TEDxTughlaqRd, celebrating, you, dhruv, avdhesh, event, ideas, worth, sharing, questions, total" />
     <meta name="author" content="Dhruv Avdhesh" />
     <meta name="robots" content="index,follow">
     <meta property="og:description" content="You were born to be a phenomenon. You are invincible. You are truth. A mind which is bound to perform impeccable tasks by living, moving and consuming life. You are the Five Elements in motion. You are the Answer to your Prayers. This, one of a kind gathering in the heart of the city, celebrates YOU.">
