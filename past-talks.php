@@ -3,56 +3,132 @@ require_once('header.php');
 ?>
 
 
-				<!-- Page Sub Menu -->
 		<div id="page-menu" class="dots-menu">
-
 			<div id="page-menu-wrap">
-
 				<div class="container clearfix">
-
 					<div class="menu-title">TEDx<span>TughlaqRd</span></div>
-
 					<nav class="one-page-menu no-offset">
 						<ul>
-							<li><a href="#" data-href="#section-pastevents"><div>Past Events</div></a></li>
+							<li><a href="#" data-href="#section-pastevents"><div>Past Talks</div></a></li>
                             <li><a href="#" data-href="#section-partners"><div>Partners</div></a></li>
 							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
-                            <li><a href="#" data-href="#section-reaching"><div>Reaching There</div></a></li>
 						</ul>
 					</nav>
-
 					<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
-
 				</div>
-
 			</div>
-
 		</div>
-
-				<!-- 1 : #section-past -->
-                
                 <section id="section-pastevents" class="page-section dark">
-
 					<div class="container clearfix">
-                    
                     <div class="heading-block center nobottomborder" style="margin:75px;">
 							<span class="before-heading color">Former Speakers</span>
 							<h3>Our Glorious Past</h3>
 						</div>
-                        
                         <div class="row">
-
 						<div class="col-md-12 bottommargin">
-
 					<div id="video-gallery" class="royalSlider videoGallery rsDefault">
- 
-   <a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=tZsQP9gl6RQ" href="images/ps1.jpg">
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=mvl7MxHE37o" href="images/ps37.jpg">
+    <div class="rsTmb">
+      <h5>Women and the Battle Within</h5>
+      <span>~ Anupama Joshi, Ex-Indian Air Force</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=WMkbQ4Wf86I" href="images/ps38.jpg">
+    <div class="rsTmb">
+      <h5>Sufiyana in Classical Music</h5>
+      <span>~ Ujwal Nagar & Shariq Mustafa, Hindustani Classical Vocalist and Tabla</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=pzQB3scDSqM" href="images/ps39.jpg">
+    <div class="rsTmb">
+      <h5>Mahtama Matters</h5>
+      <span>~ Makarand Paranjape, Noted Author & Professor</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=72k3uQascSg" href="images/ps40.jpg">
+    <div class="rsTmb">
+      <h5>Get, Set, Go</h5>
+      <span>~ Dinesh Ghodke & Khurshed Batliwala, Founders of YES+ at Art of Living</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=CzaTBX2thok" href="images/ps41.jpg">
+    <div class="rsTmb">
+      <h5>Loving Women in Three Languages Through Ages</h5>
+      <span>~ Anamika, Sudeep Sen & Saif Mahmood, Celebrated Poets</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=qsCdOtIi718" href="images/ps32.jpg">
+    <div class="rsTmb">
+      <h5>Freedom from Rice? Yes, I Quinoa</h5>
+      <span>~ Srinivas Rao, Founder, Dr. Quinoa</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=i7wsuwGa8NI" href="images/ps33.jpg">
+    <div class="rsTmb">
+      <h5>Arts Entrepreneurship - A Vital Step</h5>
+      <span>~ Neha Kirpal, Founder, India Art Fair</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=fbBCmdpCwVk" href="images/ps34.jpg">
+    <div class="rsTmb">
+      <h5>Mathematics in Kathak</h5>
+      <span>~ Rani Khanam, Kathak Danseuse & Guru</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=NRu2sALp55A" href="images/ps35.jpg">
+    <div class="rsTmb">
+      <h5>Oh Sugar, Woe Sugar</h5>
+      <span>~ Ishi Khosla & Karan Vier Khosla, Celebrity Nutritionist</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=l7siDGS3YSM" href="images/ps36.jpg">
+    <div class="rsTmb">
+      <h5>Storytelling in India Through Technology</h5>
+      <span>~ Arjun Pandey, Film Maker & Entrepreneur</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=MdkQFKJOuk0" href="images/ps26.jpg">
+    <div class="rsTmb">
+      <h5>Starting An Environmental Movement</h5>
+      <span>~ Manvendar Singh Shekhawat, Hotelier</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=PcCXwma7u14" href="images/ps27.jpg">
+    <div class="rsTmb">
+      <h5>Creative Design in Education</h5>
+      <span>~ Teach in India</span>
+    </div>
+  </a>
+	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=dldPJYZRmOg" href="images/ps28.jpg">
+    <div class="rsTmb">
+      <h5>Corruption & Political Salaries</h5>
+      <span>~ Rwitwika Bhattacharya, Founder, Swaniti</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=ivDeD7E1oo8" href="images/ps29.jpg">
+    <div class="rsTmb">
+      <h5>Redefining Social Entrepreneurship, Charity & CSR</h5>
+      <span>~ Onkar Kishan Khullar, Social Entrepreneur & Brand Consultant</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=yv1ooLPDH2s" href="images/ps30.jpg">
+    <div class="rsTmb">
+      <h5>My One Day a Week</h5>
+      <span>~ Anand Junior Gupta, Citizen Activist</span>
+    </div>
+  </a>
+<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=yKG6tJlWQsM" href="images/ps31.jpg">
+    <div class="rsTmb">
+      <h5>Classic Quintessential Private Sector Approach</h5>
+      <span>~ A. K. Manocha, Indian Railway Catering and Tourism Corporation</span>
+    </div>
+  </a>
+   	<a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=tZsQP9gl6RQ" href="images/ps1.jpg">
     <div class="rsTmb">
       <h5>Newton's Third Law of Karma</h5>
       <span>~ Maya, Innovative Bharatnatyam Group</span>
     </div>
   </a>
-  
    <a class="rsImg" data-rsVideo="https://www.youtube.com/watch?v=7PS7q-YbxwA" href="images/ps2.jpg">
     <div class="rsTmb">
       <h5>Power of Women</h5>
@@ -200,11 +276,10 @@ require_once('header.php');
   </a>
 </div>
   </div>
- 
 </div>
 </div>
 </section>
-               
+
 
 <?php
 require_once('footer.php');
