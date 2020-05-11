@@ -17,7 +17,7 @@ Author URL: https://dhruvavdhesh.net -->
     	<link href="images/favicon.png" rel="apple-touch-icon">
 
 		<!--Stylesheets-->
-		<link href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic|Playfair+Display:400,400italic,700|Lato:300,400,700|Nothing+You+Could+Do" rel="stylesheet" />
+		<link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic|Playfair+Display:400,400italic,700|Lato:300,400,700|Nothing+You+Could+Do" rel="stylesheet" />
 		<link rel="stylesheet" href="css/bootstrap.min.css" />
 		<link rel="stylesheet" href="css/style.min.css" />
 		<link rel="stylesheet" href="css/dark.min.css" />
@@ -42,7 +42,7 @@ Author URL: https://dhruvavdhesh.net -->
 		<?php require_once('seo.php'); ?>
 
 </head>
-<body class="stretched overlay-menu dark" data-loader-html="<div><img src='images/loader.gif' alt='Loader'></div>">
+<body class="stretched overlay-menu dark" data-loader-html="<div><img src='images/preloader-dark.gif' alt='Loader'></div>">
 		<div id="wrapper" class="clearfix">
 		<header id="header" class="no-sticky transparent-header dark">
 			<div id="header-wrap">
