@@ -2,7 +2,7 @@
 					<div class="container clearfix">
                     <div class="row clearfix">
 					<div class="col-sm-8">
-						<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="80" data-loop="true" data-nav="false" data-autoplay="3000" data-pagi="true" data-items-xxs="1" data-items-xs="2" data-items-sm="2" data-items-md="4" data-items-lg="4">
+						<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="80" data-loop="true" data-nav="false" data-autoplay="3000" data-pagi="true" data-items-xxs="2" data-items-xs="2" data-items-sm="2" data-items-md="4" data-items-lg="4">
 							<div class="oc-item"><a href="http://www.sarvamfoundation.in" target="_blank" rel="noreferrer noopener" aria-label="Sarvam Foundation"><img src="images/client1.png" alt="Sarvam Foundation"></a></div>
 							<div class="oc-item"><a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener" aria-label="Dhruv Avdhesh"><img src="images/client2.png" alt="Dhruv Avdhesh"></a></div>
 							<div class="oc-item"><a href="https://www.facebook.com/whenyoudance/" target="_blank" rel="noreferrer noopener" aria-label="Inni Singh"><img src="images/client3.png" alt="Inni Singh"></a></div>
