@@ -40,19 +40,19 @@
 										<form class="nobottommargin row" id="template-contactform" name="template-contactform" action="sendemail.php" method="post">
 											<div class="form-process"></div>
 											<div class="col-md-12">
-												<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" placeholder="Full Name*" />
+												<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" placeholder="Full Name*" aria-label="Full Name" />
 											</div>
 											<div class="col-md-12">
-												<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" placeholder="Email Address*" />
+												<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" placeholder="Email*" aria-label="Email" />
 											</div>
 											<div class="col-md-12">
-												<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"placeholder="Message*" ></textarea>
+												<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"placeholder="Message*" aria-label="Message" /></textarea>
 											</div>
 											<div class="col-md-12 hidden">
-												<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
+												<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" aria-label="Botneck" />
 											</div>
 											<div class="col-md-12">
-												<button class="button button-border button-rounded button-black fright" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit"><i class="icon-remove"></i> Send Message</button>
+												<div align="right"><button class="newbtn" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit"><i class="icon-remove"></i> Send Message</button></div>
 											</div>
 										</form>
 									</div>

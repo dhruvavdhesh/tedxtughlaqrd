@@ -60,7 +60,7 @@ require_once('header.php');
 						<div style="padding: 40px;">
 							<div class="widget-subscribe-form-result"></div>
 							<form class="widget-subscribe-form2 ted" action="subscribe.php" role="form" method="post">
-								<input type="email" id="widget-subscribe-form2-email" name="widget-subscribe-form-email" class="form-control input-lg not-dark required email" placeholder="Enter Your Email">
+								<input type="email" id="widget-subscribe-form2-email" name="widget-subscribe-form-email" class="form-control input-lg not-dark required email" placeholder="Enter Your Email" aria-label="Email">
 								<button class="button button-rounded button-border button-light noleftmargin inlin tedm" type="submit" data-notify-type="success" data-notify-msg="<i class=icon-ok-sign></i> Subscribed Successfully!" onclick="SEMICOLON.widget.notifications(this); closePopup();"><strong>Subscribe</strong></button>
 							</form>
 						</div>
