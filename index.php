@@ -38,14 +38,14 @@ require_once('header.php');
 					<div class="menu-title">TEDx<span>TughlaqRd</span></div>
 					<nav class="one-page-menu no-offset">
 						<ul>
-							<li><a href="#" data-href="#wrapper"><div>Home</div></a></li>
-							<li><a href="#" data-href="#section-introduction"><div>Intro</div></a></li>
-							<li><a href="#" data-href="#section-about"><div>About</div></a></li>
-							<li><a href="#" data-href="#section-speakers"><div>Speakers & Testimonials</div></a></li>
-                            <li><a href="#" data-href="#section-numbers"><div>Our Amazing Record</div></a></li>
-							<li><a href="#" data-href="#section-team"><div>Curator</div></a></li>
-                            <li><a href="#" data-href="#section-partners"><div>Partners</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
+							<li><a href="#" data-href="#wrapper" aria-label="Home"><div>Home</div></a></li>
+							<li><a href="#" data-href="#section-introduction" aria-label="Intro"><div>Intro</div></a></li>
+							<li><a href="#" data-href="#section-about" aria-label="About"><div>About</div></a></li>
+							<li><a href="#" data-href="#section-speakers" aria-label="Speakers & Testimonials"><div>Speakers & Testimonials</div></a></li>
+                            <li><a href="#" data-href="#section-numbers" aria-label="Our Amazing Record"><div>Our Amazing Record</div></a></li>
+							<li><a href="#" data-href="#section-team" aria-label="Curator"><div>Curator</div></a></li>
+                            <li><a href="#" data-href="#section-partners" aria-label="Partners"><div>Partners</div></a></li>
+							<li><a href="#" data-href="#section-contact" aria-label="Contact"><div>Contact</div></a></li>
 						</ul>
 					</nav>
 					<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
@@ -72,7 +72,7 @@ require_once('header.php');
 							<div class="col-md-6 col-md-offset-5">
 								<div class="divcenter center row">
 									<div class="col-md-12">
-										<p style="font-size:24px; color:#BBB;" align="justify">You were born to be a phenomenon. You are invincible. You are truth. A mind which is bound to perform impeccable tasks by living, moving and consuming life. You are the Five Elements in motion. You are the Answer to your Prayers. This, one of a kind gathering in the heart of the city, <strong><font color="#ff2b06">celebrates you</font></strong>.</p>
+										<p style="font-size:24px; color:#BBB;" align="justify">You were born to be a phenomenon. You are invincible. You are truth. A mind which is bound to perform impeccable tasks by living, moving and consuming life. You are the Five Elements in motion. You are the Answer to your Prayers. This, one of a kind gathering in the heart of the city, <strong style="color:#ff2b06;">celebrates you</strong>.</p>
 									</div>
 								</div>
 							</div>
@@ -133,20 +133,20 @@ require_once('header.php');
 									<h3>Speakers</h3>
 								</div>
 								<div class="masonry-thumbs col-5" data-big="4,5" data-lightbox="gallery">
-									<a href="images/s1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s1.jpg" alt="Speaker 1"></a>
-									<a href="images/s2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s2.jpg" alt="Speaker 2"></a>
-									<a href="images/s3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s3.jpg" alt="Speaker 3"></a>
-									<a href="images/s4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s4.jpg" alt="Speaker 4"></a>
-									<a href="images/s5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s5.jpg" alt="Speaker 5"></a>
-									<a href="images/s6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s6.jpg" alt="Speaker 6"></a>
-									<a href="images/s7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s7.jpg" alt="Speaker 7"></a>
-									<a href="images/s8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s8.jpg" alt="Speaker 8"></a>
-									<a href="images/s9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s9.jpg" alt="Speaker 9"></a>
-                                    <a href="images/s10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s10.jpg" alt="Speaker 10"></a>
-									<a href="images/s11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s11.jpg" alt="Speaker 11"></a>
-									<a href="images/s12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s12.jpg" alt="Speaker 12"></a>
-									<a href="images/s13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s13.jpg" alt="Speaker 13"></a>
-									<a href="images/s14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/s14.jpg" alt="Speaker 14"></a>
+									<a href="images/s1.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s1.jpg" alt="Speaker 1"></a>
+									<a href="images/s2.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s2.jpg" alt="Speaker 2"></a>
+									<a href="images/s3.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s3.jpg" alt="Speaker 3"></a>
+									<a href="images/s4.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s4.jpg" alt="Speaker 4"></a>
+									<a href="images/s5.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s5.jpg" alt="Speaker 5"></a>
+									<a href="images/s6.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s6.jpg" alt="Speaker 6"></a>
+									<a href="images/s7.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s7.jpg" alt="Speaker 7"></a>
+									<a href="images/s8.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s8.jpg" alt="Speaker 8"></a>
+									<a href="images/s9.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s9.jpg" alt="Speaker 9"></a>
+                                    <a href="images/s10.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s10.jpg" alt="Speaker 10"></a>
+									<a href="images/s11.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s11.jpg" alt="Speaker 11"></a>
+									<a href="images/s12.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s12.jpg" alt="Speaker 12"></a>
+									<a href="images/s13.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s13.jpg" alt="Speaker 13"></a>
+									<a href="images/s14.jpg" data-lightbox="gallery-item" aria-label="Speaker"><img class="image_fade" src="images/s14.jpg" alt="Speaker 14"></a>
 								</div>
 							</div>
                             <div class="col-md-5">
@@ -183,7 +183,7 @@ require_once('header.php');
 								</div>
 							</div>
                           </div> 
-                          <div class="lol"><div align="center"><a href="past-talks.php"><button class="newbtn"><i class="icon-remove"></i> Past Talks</button></a></div></div> 
+                          <div class="lol"><div align="center"><a href="past-talks.php" aria-label="Past Talks"><button class="newbtn"><i class="icon-remove"></i> Past Talks</button></a></div></div> 
 						</div>                     
                     </div>
 
@@ -224,7 +224,7 @@ require_once('header.php');
                             <p class="curator">My journey with TEDx began in 2010 when I was invited by TEDxPune to speak at their event. The seed of my Foundation, Sarvam was planted through that talk - because the invitation to speak at a creative platform like the TEDx truly made me think hard about where I would like to take my artistic aspirations. The response, the talk received made me quite a special speaker in the TEDx community in India. By 2012, I had decided to give other such individuals a chance at wider success by organising a TEDx event of my own. <br><br>
                            	Winds of Change. Engage, Enable, Empower. Life is Gift.e.d (x). And now Celebrating You.<br><br>Welcome to this community of celebration. We are thrilled to have you on board! Because we aren't in control of 'what' happens to us - but we sure can influence the 'how' we respond to it.<br><br>
 							</p>
-				<div class="lol2"><div align="center"><a href="team.php"><button class="newbtn"><i class="icon-remove"></i> Meet the Team</button></a></div></div> 
+				<div class="lol2"><div align="center"><a href="team.php" aria-label="Team"><button class="newbtn"><i class="icon-remove"></i> Meet the Team</button></a></div></div> 
 				</div></div></div>
 				</section> 
 

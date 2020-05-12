@@ -49,18 +49,18 @@ Author URL: https://dhruvavdhesh.net -->
 				<div class="container clearfix">
 					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 					<div id="logo">
-						<a href="index.php" class="standard-logo"><img src="images/logo.png" alt="TEDxTughlaqRd Logo"></a>
-						<a href="index.php" class="retina-logo"><img src="images/logo.png" alt="TEDxTughlaqRd Logo"></a>
+						<a href="index.php" class="standard-logo" aria-label="TEDxTughlaqRd Logo"><img src="images/logo.png" alt="TEDxTughlaqRd Logo"></a>
+						<a href="index.php" class="retina-logo" aria-label="TEDxTughlaqRd Logo"><img src="images/logo.png" alt="TEDxTughlaqRd Logo"></a>
 					</div>
 					<nav id="primary-menu" class="dark">
 						<ul>
-							<li><a href="index.php"><div>Home</div></a></li>
-							<li><a href="past-talks.php"><div>Past Talks</div></a></li>
-							<li><a href="team.php"><div>Team</div></a></li>
-                            <li><a href="faqs.php"><div>Frequently Asked Questions</div></a></li>
-                            <li><a href="register.php"><div>Register</div></a></li>
+							<li><a href="index.php" aria-label="Home"><div>Home</div></a></li>
+							<li><a href="past-talks.php" aria-label="Past Talks"><div>Past Talks</div></a></li>
+							<li><a href="team.php" aria-label="Team"><div>Team</div></a></li>
+                            <li><a href="faqs.php" aria-label="Frequently Asked Questions"><div>Frequently Asked Questions</div></a></li>
+                            <li><a href="register.php" aria-label="Register"><div>Register</div></a></li>
 						</ul>
-						<a href="#" id="overlay-menu-close" class="d-none d-lg-block"><i class="icon-line-cross"></i></a>
+						<a href="#" id="overlay-menu-close" class="d-none d-lg-block" aria-label="Close Menu"><i class="icon-line-cross"></i></a>
 					</nav>
 				</div>
 			</div>

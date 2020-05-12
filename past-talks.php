@@ -9,9 +9,9 @@ require_once('header.php');
 					<div class="menu-title">TEDx<span>TughlaqRd</span></div>
 					<nav class="one-page-menu no-offset">
 						<ul>
-							<li><a href="#" data-href="#section-pastevents"><div>Past Talks</div></a></li>
-                            <li><a href="#" data-href="#section-partners"><div>Partners</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
+							<li><a href="#" data-href="#section-pastevents" aria-label="Past Talks"><div>Past Talks</div></a></li>
+                            <li><a href="#" data-href="#section-partners" aria-label="Partners"><div>Partners</div></a></li>
+							<li><a href="#" data-href="#section-contact" aria-label="Contact"><div>Contact</div></a></li>
 						</ul>
 					</nav>
 					<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>

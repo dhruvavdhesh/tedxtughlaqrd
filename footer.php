@@ -3,22 +3,22 @@
                     <div class="row clearfix">
 					<div class="col-sm-8">
 						<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="80" data-loop="true" data-nav="false" data-autoplay="3000" data-pagi="true" data-items-xxs="1" data-items-xs="2" data-items-sm="2" data-items-md="4" data-items-lg="4">
-							<div class="oc-item"><a href="http://www.sarvamfoundation.in" target="_blank" rel="noreferrer noopener"><img src="images/client1.png" alt="Sarvam Foundation"></a></div>
-							<div class="oc-item"><a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener"><img src="images/client2.png" alt="Dhruv Avdhesh"></a></div>
-							<div class="oc-item"><a href="https://www.facebook.com/whenyoudance/" target="_blank" rel="noreferrer noopener"><img src="images/client3.png" alt="Inni Singh"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/client6.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/client7.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/client8.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/client9.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/client10.png" alt="Clients"></a></div>
-                            <div class="oc-item"><a href="#"><img src="images/client11.png" alt="Clients"></a></div>
-                            <div class="oc-item"><a href="#"><img src="images/client12.png" alt="Clients"></a></div>
-                            <div class="oc-item"><a href="#"><img src="images/client13.png" alt="Clients"></a></div>
-                            <div class="oc-item"><a href="#"><img src="images/client14.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="http://www.sarvamfoundation.in" target="_blank" rel="noreferrer noopener" aria-label="Sarvam Foundation"><img src="images/client1.png" alt="Sarvam Foundation"></a></div>
+							<div class="oc-item"><a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener" aria-label="Dhruv Avdhesh"><img src="images/client2.png" alt="Dhruv Avdhesh"></a></div>
+							<div class="oc-item"><a href="https://www.facebook.com/whenyoudance/" target="_blank" rel="noreferrer noopener" aria-label="Inni Singh"><img src="images/client3.png" alt="Inni Singh"></a></div>
+							<div class="oc-item"><a href="#" aria-label="Client"><img src="images/client6.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#" aria-label="Client"><img src="images/client7.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#" aria-label="Client"><img src="images/client8.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#" aria-label="Client"><img src="images/client9.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="#" aria-label="Client"><img src="images/client10.png" alt="Clients"></a></div>
+                            <div class="oc-item"><a href="#" aria-label="Client"><img src="images/client11.png" alt="Clients"></a></div>
+                            <div class="oc-item"><a href="#" aria-label="Client"><img src="images/client12.png" alt="Clients"></a></div>
+                            <div class="oc-item"><a href="#" aria-label="Client"><img src="images/client13.png" alt="Clients"></a></div>
+                            <div class="oc-item"><a href="#" aria-label="Client"><img src="images/client14.png" alt="Clients"></a></div>
 						</div>
 					</div>
                    <div class="col-sm-4">
-                   <div class="lol3"><div align="center"><a href="pdf/brochure.pdf" target="_blank" rel="noreferrer noopener"><button class="newbtn"><i class="icon-remove"></i> Partner with us</button></a></div></div>
+                   <div class="lol3"><div align="center"><a href="pdf/brochure.pdf" target="_blank" rel="noreferrer noopener" aria-label="Brochure"><button class="newbtn"><i class="icon-remove"></i> Partner with us</button></a></div></div>
                    </div>
 					</div>
 					</div>
@@ -32,7 +32,7 @@
 							</div>
 							<div class="row">
                             <div class="col-md-12 center">
-									<p class="tleft text-muted" align="justify">Have Questions? Kindly have a look at our <a href="faqs.php">Frequently Asked Question(s)</a> section. Still got questions? Feel free to contact us.</p>
+									<p class="tleft text-muted" align="justify">Have Questions? Kindly have a look at our <a href="faqs.php" aria-label="Frequently Asked Questions">Frequently Asked Question(s)</a> section. Still got questions? Feel free to contact us.</p>
 								</div>
 								<div class="col-md-12">
 									<div class="contact-widget">
@@ -68,20 +68,20 @@
 				<div class="container clearfix">
 					<div class="col-md-12 center">
 						<div class="heading-block clearfix bottommargin-sm">
-							<a href="home.php"><img src="images/footer.png" alt="TEDxTughlaqRd Logo"></a>
+							<a href="home.php" aria-label="TEDxTughlaqRd Logo"><img src="images/footer.png" alt="TEDxTughlaqRd Logo"></a>
 						</div>
                         <div class="heading-block clearfix bottommargin-sm">
-                        <a href="https://www.facebook.com/TeDxTughlaqRd" target="_blank" rel="noreferrer noopener"><span class="hb hb-xs hb-custom"><i class="fa fa-facebook"></i></span></a>
-						<a href="https://twitter.com/TEDx_TughlaqRd" target="_blank" rel="noreferrer noopener"><span class="hb hb-xs hb-custom"><i class="fa fa-twitter"></i></span></a>
-                        <a href="https://www.linkedin.com/company/13186983?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2040468291471279718811%2CVSRPtargetId%3A13186983%2CVSRPcmpt%3Aprimary" target="_blank" rel="noreferrer noopener"><span class="hb hb-xs hb-custom"><i class="fa fa-linkedin"></i></span></a>
+                        <a href="https://www.facebook.com/TeDxTughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Facebook"><span class="hb hb-xs hb-custom"><i class="fa fa-facebook"></i></span></a>
+						<a href="https://twitter.com/TEDx_TughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Twitter"><span class="hb hb-xs hb-custom"><i class="fa fa-twitter"></i></span></a>
+                        <a href="https://www.linkedin.com/company/13186983" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn"><span class="hb hb-xs hb-custom"><i class="fa fa-linkedin"></i></span></a>
 		     		 </div>
-						<div style="color:#ffffff">&copy; 2016 - <?php echo date("Y",time()) ?> | All Rights Reserved | Website by <a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener"><img src="images/dhruv.png" alt="Dhruv Avdhesh"></a></div>
+						<div style="color:#ffffff">&copy; 2016 - <?php echo date("Y",time()) ?> | All Rights Reserved | Website by <a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener" aria-label="Dhruv Avdhesh"><img src="images/dhruv.png" alt="Dhruv Avdhesh"></a></div>
 					</div>    
 				</div>
 			</div>
 		</footer>
 	</div>
-    <a href="register.php"><button class="register"><i class="icon-remove"></i> Register</button></a>
+    <a href="register.php" aria-label="Register"><button class="register"><i class="icon-remove"></i> Register</button></a>
     <div id="gotoTop" class="icon-angle-up"></div>
 
 	<!--JavaScripts-->

@@ -9,9 +9,9 @@ require_once('header.php');
 					<div class="menu-title">TEDx<span>TughlaqRd</span></div>
 					<nav class="one-page-menu no-offset">
 						<ul>
-							<li><a href="#" data-href="#section-faqs"><div>Frequently Asked Questions</div></a></li>
-                            <li><a href="#" data-href="#section-partners"><div>Partners</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
+							<li><a href="#" data-href="#section-faqs" aria-label="Frequently Asked Questions"><div>Frequently Asked Questions</div></a></li>
+                            <li><a href="#" data-href="#section-partners" aria-label="Partners"><div>Partners</div></a></li>
+							<li><a href="#" data-href="#section-contact" aria-label="Contact"><div>Contact</div></a></li>
 						</ul>
 					</nav>
 					<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
@@ -53,33 +53,33 @@ require_once('header.php');
 							</div>
 							<div class="toggle faq faq-legal faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>When did TEDxTughlaqRd start?</div>
-								<div class="togglec" align="justify">We have a legacy and rich cultural history behind, to checkout our previous speakers and performance, <a href="past-events.php">click here</a>.</div>
+								<div class="togglec" align="justify">We have a legacy and rich cultural history behind, to checkout our previous speakers and performance, <a href="past-events.php" aria-label="Past Events">click here</a>.</div>
 							</div>
 							<div class="toggle faq faq-legal faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>I want to attend as an audience member, what is the procedure?</div>
-								<div class="togglec" align="justify">We have limited seats so before the seats run out, <a href="register.php">register</a> yourself and you will receive a confirmation of your pass thereby. For any queries or issues, feel free to <a href="#section-contact">contact</a> us.
+								<div class="togglec" align="justify">We have limited seats so before the seats run out, <a href="register.php" aria-label="Register">register</a> yourself and you will receive a confirmation of your pass thereby. For any queries or issues, feel free to <a href="#section-contact" aria-label="Contact">contact</a> us.
 							</div>
 							</div>
 							<div class="toggle faq faq-affiliates">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>I am a media representative, what about media pass provisions?</div>
-								<div class="togglec" align="justify">We have limited media passes, for information on the current situation feel free to <a href="#section-contact">contact</a> us.</div>
+								<div class="togglec" align="justify">We have limited media passes, for information on the current situation feel free to <a href="#section-contact" aria-label="Contact">contact</a> us.</div>
 							</div>
 							<div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>Is there any fee for all the passes for TEDxTughlagRd?</div>
-								<div class="togglec" align="justify">Well, we have different categories of passes and we are very liberal with our specific discounts. For information on passes, <a href="register.php">click here</a>.
+								<div class="togglec" align="justify">Well, we have different categories of passes and we are very liberal with our specific discounts. For information on passes, <a href="register.php" aria-label="Register">click here</a>.
 							</div>
 							</div>
 							<div class="toggle faq faq-marketplace faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>Where do I find the information for Sponsorship / Partnership opportunities and benefits?</div>
-								<div class="togglec" align="justify">For more information on the same, <a href="pdf/brochure.pdf">download</a> our event brochure.</div>
+								<div class="togglec" align="justify">For more information on the same, <a href="pdf/brochure.pdf" aria-label="Download">download</a> our event brochure.</div>
 							</div>
                             <div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>Can I volunteer for TEDxTughlagRd?</div>
-								<div class="togglec" align="justify">It is amazing to know that you would like to be a part of our super enthusiastic team of workaholics. We are always looking for the best talent who have the drive, initiative, a positive worldview and can work in a challenging environment. If you have got it in you, then <a href="#section-contact">contact</a> us at the earliest.</div>
+								<div class="togglec" align="justify">It is amazing to know that you would like to be a part of our super enthusiastic team of workaholics. We are always looking for the best talent who have the drive, initiative, a positive worldview and can work in a challenging environment. If you have got it in you, then <a href="#section-contact" aria-label="Contact">contact</a> us at the earliest.</div>
 							</div>
                            <div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>Who all are in the team behind this amazing TEDx event?</div>
-								<div class="togglec" align="justify">We have a team of diverse people from all walks of life and fields, we celebrate each other and we take pride in our passion for bringing a change. To know about our team profiles and get in touch, <a href="team.php">click here</a>.
+								<div class="togglec" align="justify">We have a team of diverse people from all walks of life and fields, we celebrate each other and we take pride in our passion for bringing a change. To know about our team profiles and get in touch, <a href="team.php" aria-label="Team">click here</a>.
 							</div>
 							</div>
                             <div class="toggle faq faq-authors faq-itemdiscussion">
@@ -104,18 +104,18 @@ require_once('header.php');
 							</div>
                             <div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>Can I apply / or nominate someone for being a Speaker at TEDxTughlagRd?</div>
-								<div class="togglec" align="justify">Alas, we are almost full with speaker slots, but we are interested if you have a great story to share, perhaps some stories need time squeezed out or can make a way for our next TEDx. We would like to hear from you if there is anything you believe the country needs to listen, <a href="#section-contact">contact</a> us as soon as possible.
+								<div class="togglec" align="justify">Alas, we are almost full with speaker slots, but we are interested if you have a great story to share, perhaps some stories need time squeezed out or can make a way for our next TEDx. We would like to hear from you if there is anything you believe the country needs to listen, <a href="#section-contact" aria-label="Contact">contact</a> us as soon as possible.
 							</div>
 							</div>
                             <div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>I would like to know about the curator of the event.
 							</div>
-								<div class="togglec" align="justify">Read more about our curator, <a href="home.php#section-team">Nehha Bhatnagar</a>.
+								<div class="togglec" align="justify">Read more about our curator, <a href="home.php#section-team" aria-label="Team">Nehha Bhatnagar</a>.
 							</div>
 							</div>
                             <div class="toggle faq faq-authors faq-itemdiscussion">
 								<div class="togglet"><i class="toggle-closed icon-sort-down"></i><i class="toggle-open icon-sort-up"></i>How many talks will be at TEDxTughlagRd?</div>
-								<div class="togglec" align="justify">Twelve, to be exact. Meet the <a href="home.php#section-speakers">speakers</a> for this year.
+								<div class="togglec" align="justify">Twelve, to be exact. Meet the <a href="home.php#section-speakers" aria-label="Speakers">speakers</a> for this year.
 							</div>
 							</div> 
 						</div>
