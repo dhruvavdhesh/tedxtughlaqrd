@@ -1,8 +1,8 @@
 RewriteEngine On
-RewriteCond %{HTTP:X-Forwarded-Proto} =http
-RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
-RewriteCond %{HTTP_HOST} ^www.tedxtughlaqrd.com [NC]
-RewriteRule ^(.*)$ http://tedxtughlaqrd.com [L,R=301]
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^ https://tedxtughlaqrd.com%{REQUEST_URI} [L,NE,R=301]
 
 ErrorDocument 404 /404.php
 
