@@ -6,10 +6,7 @@ RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
 RewriteRule ^ https://%1%{REQUEST_URI} [L,NE,R=301]
 
-ErrorDocument 401 /error/401/
-ErrorDocument 403 /error/403/
-ErrorDocument 404 /error/404/
-ErrorDocument 500 /error/500/
+ErrorDocument 404 /404.php
 
 <IfModule mod_expires.c>
     ExpiresActive on
