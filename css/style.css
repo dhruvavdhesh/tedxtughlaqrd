@@ -3407,3 +3407,8 @@ body:not(.no-transition) #wrapper,
 .mbYTP_wrapper iframe{max-width:4000px !important;}
 .inline_YTPlayer{margin-bottom:20px;vertical-align:top;position:relative;left:0;overflow:hidden;border-radius:4px;-moz-box-shadow:0 0 5px rgba(0,0,0,.7);-webkit-box-shadow:0 0 5px rgba(0,0,0,.7);box-shadow:0 0 5px rgba(0,0,0,.7);background:rgba(0,0,0,.5);}
 .inline_YTPlayer img{border:none!important;-moz-transform:none!important;-webkit-transform:none!important;-o-transform:none!important;transform:none!important;margin:0!important;padding:0!important}
+.awards img {
+    width: 120px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

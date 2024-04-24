@@ -70,11 +70,19 @@
 						<div class="heading-block clearfix bottommargin-sm">
 							<a href="home.php" aria-label="TEDxTughlaqRd Logo"><img src="images/footer.png" alt="TEDxTughlaqRd Logo"></a>
 						</div>
+						<div class="heading-block clearfix bottommargin-sm">
+							<a href="https://winners.webbyawards.com/2024/websites-and-mobile-sites/general-desktop-mobile-sites/events/294406/tedxtughlaqrd" target="_blank" aria-label="The Webby Awards Honoree" class="awards">
+								<img src="images/the-webby-awards-honoree-2024.png" alt="The Webby Awards Honoree" onmouseover="this.src='images/the-webby-awards-honoree-2024-red.png';" onmouseout="this.src='images/the-webby-awards-honoree-2024.png';" style="margin-left:0">
+							</a>
+							<a href="https://www.cssdesignawards.com/sites/tedxtughlaqrd/45046/" target="_blank" aria-label="CSS Design Awards" class="awards">
+								<img src="images/css-design-awards-special-kudos.png" alt="CSS Design Awards" onmouseover="this.src='images/css-design-awards-special-kudos-red.png';" onmouseout="this.src='images/css-design-awards-special-kudos.png';" style="margin-right:0">
+							</a>
+						</div>
                         <div class="heading-block clearfix bottommargin-sm">
-                        <a href="https://www.facebook.com/TeDxTughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Facebook"><span class="hb hb-xs hb-custom"><i class="fa fa-facebook"></i></span></a>
-						<a href="https://twitter.com/TEDx_TughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Twitter"><span class="hb hb-xs hb-custom"><i class="fa fa-twitter"></i></span></a>
-                        <a href="https://www.linkedin.com/company/13186983" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn"><span class="hb hb-xs hb-custom"><i class="fa fa-linkedin"></i></span></a>
-		     		 </div>
+							<a href="https://www.facebook.com/TeDxTughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Facebook"><span class="hb hb-xs hb-custom"><i class="fa fa-facebook"></i></span></a>
+							<a href="https://twitter.com/TEDx_TughlaqRd" target="_blank" rel="noreferrer noopener" aria-label="Twitter"><span class="hb hb-xs hb-custom"><i class="fa fa-twitter"></i></span></a>
+							<a href="https://www.linkedin.com/company/13186983" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn"><span class="hb hb-xs hb-custom"><i class="fa fa-linkedin"></i></span></a>
+		     		 	</div>
 						<div style="color:#ffffff">&copy; 2016 - <?php echo date("Y",time()) ?> | All Rights Reserved | Website by <a href="http://www.dhruvavdhesh.net" target="_blank" rel="noreferrer noopener" aria-label="Dhruv Avdhesh"><img src="images/dhruv.png" alt="Dhruv Avdhesh"></a></div>
 					</div>    
 				</div>
